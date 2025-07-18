@@ -35,5 +35,6 @@ For contact or collaboration, feel free to reach out via GitHub profile.
 This project is not open source. It is a private portfolio intended to showcase technical and documentation skills.  
 For permission to access, reproduce, or use this content, please contact the author.
 
+🇯🇵 日本語版はこちら: [README_ja.md](README_ja.md)
 
 
