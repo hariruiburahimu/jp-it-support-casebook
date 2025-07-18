@@ -12,3 +12,5 @@
 | 008    | kobayashi.a  | USB device not recognized         | Osaka Branch – 1st Fl  |
 | 009    | fujimoto.h   | Bluetooth connection failed       | Yokohama Office – 3rd Fl|
 | 010    | yoshida.m    | Windows Update error 0x80070002   | Nagasaki Branch – 2nd Fl|
+
+🇯🇵 日本語版はこちら： [ticket_index_ja.md](ticket_index_ja.md)
