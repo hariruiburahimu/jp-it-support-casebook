@@ -31,6 +31,7 @@ Location: Türkiye / aspiring to work in Japan 🇯🇵
 
 For contact or collaboration, feel free to reach out via GitHub profile.
 
-## 📌 Legal Note:  
- This project is not open source. It is a private portfolio intended to showcase technical and documentation skills.  
- For permission to access, reproduce, or use this content, please contact the author.
+## ⚖️ License  
+This project is not open source. It is a private portfolio intended to showcase technical and documentation skills.  
+For permission to access, reproduce, or use this content, please contact the author.
+
