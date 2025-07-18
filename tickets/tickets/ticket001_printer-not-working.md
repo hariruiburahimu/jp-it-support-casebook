@@ -52,3 +52,4 @@ Printer resumed normal function after setting it online.
 ## 🗂️ Tags  
 `#Printer` `#Offline` `#Windows11` `#ControlPanel`
 
+Move ticket001 to tickets folder
