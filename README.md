@@ -20,3 +20,13 @@ It is designed to demonstrate practical troubleshooting skills, structured ticke
 /scripts/               → Optional batch, PowerShell, or shell scripts  
 /checklists/            → Support process checklists (PDF or text)
 ```
+---
+
+## 👤 Author / 作者
+
+Created by **Halil İbrahim**  
+GitHub: [@hariruiburahimu](https://github.com/hariruiburahimu)  
+Languages: English 🇬🇧 ・ 日本語 🇯🇵  
+Location: Türkiye / aspiring to work in Japan 🇯🇵
+
+For contact or collaboration, feel free to reach out via GitHub profile.
