@@ -51,6 +51,4 @@ This project is **not open source**. It is a **private portfolio** intended sole
 Unauthorized reproduction, redistribution, or commercial use is **strictly prohibited**.  
 If you would like to reuse or reference this content, please contact the author for permission.
 
----
 
-## 🇯🇵 日本語版が必要な場合、READMEをご覧ください。
