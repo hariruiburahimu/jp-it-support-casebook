@@ -1,3 +1,5 @@
+[日本語版はこちら](./README_JP.md)
+
 # JP IT Support Casebook
 **Ticket-based IT Support portfolio (EN / JP-ready)**
 
@@ -24,10 +26,10 @@ This is a **portfolio** repository. The priority is **process clarity**, not fla
 ---
 
 ## Repository structure
-- **/tickets/** — Individual ticket reports (main content)
-- **/screenshots/** — Supporting images/evidence
-- **ticket_index.md** — Case summary table (the entry point)
-- **ABOUT_THIS_PROJECT.md** — Scope, intent, and standards
+- **/tickets/** — Individual ticket reports
+- **/screenshots/** — Supporting evidence
+- **ticket_index.md** — Case summary table
+- **ABOUT_THIS_PROJECT.md** — Project scope and standards
 
 ---
 
@@ -35,23 +37,23 @@ This is a **portfolio** repository. The priority is **process clarity**, not fla
 Each ticket aims to include:
 - Summary / Symptoms
 - Business impact
-- Environment (OS / app / network / device context)
-- Troubleshooting steps (what was tested and why)
+- Environment details
+- Troubleshooting steps
 - Root cause (when identifiable)
-- Resolution (final steps)
-- Preventive measures / lessons learned
-- Escalation considerations (when relevant)
+- Resolution
+- Preventive measures
+- Escalation considerations
 
 ---
 
 ## Evaluation notes (for recruiters)
-This repository is intentionally written to show:
-- **How** I think under uncertainty
-- **How** I document decisions and evidence
-- **How** I keep communication clear and structured
-- **How** I prioritize stability and prevention
+This repository demonstrates:
+- Structured thinking under uncertainty
+- Clear documentation discipline
+- Consistent reporting standards
+- Prevention-oriented support mindset
 
-If you want a quick scan, review 2–3 tickets from different categories and compare consistency.
+For a quick evaluation, reviewing 2–3 tickets from different categories is recommended.
 
 ---
 
