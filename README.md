@@ -1,7 +1,7 @@
-[日本語版はこちら](./README_JP.md)
+[日本語版はこちら](./README_JA.md)
 
 # JP IT Support Casebook
-**Ticket-based IT Support portfolio (EN / JP-ready)**
+**Ticket-based IT Support portfolio (EN / JA-ready)**
 
 A structured collection of IT Support case simulations written in a professional ticket format.
 Designed to demonstrate troubleshooting process, documentation discipline, and clear communication aligned with Japanese workplace expectations.
@@ -14,7 +14,7 @@ Designed to demonstrate troubleshooting process, documentation discipline, and c
 - Clear and concise technical communication
 - Consistent formatting and support mindset (escalation, risk, follow-up)
 
-This is a **portfolio** repository. The priority is **process clarity**, not flashy complexity.
+This is a **portfolio** repository. The priority is **process clarity**, not complexity.
 
 ---
 
@@ -39,7 +39,7 @@ Each ticket aims to include:
 - Business impact
 - Environment details
 - Troubleshooting steps
-- Root cause (when identifiable)
+- Root cause
 - Resolution
 - Preventive measures
 - Escalation considerations
@@ -52,8 +52,6 @@ This repository demonstrates:
 - Clear documentation discipline
 - Consistent reporting standards
 - Prevention-oriented support mindset
-
-For a quick evaluation, reviewing 2–3 tickets from different categories is recommended.
 
 ---
 
