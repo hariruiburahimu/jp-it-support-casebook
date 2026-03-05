@@ -1,4 +1,4 @@
-[🇯🇵 日本語版はこちら] (README_jp.md)
+[ 🇯🇵 日本語版はこちら](./README_jp.md)
 
 # JP IT Support Casebook
 **Ticket-based IT Support portfolio (EN / JA-ready)**
