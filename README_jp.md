@@ -1,4 +1,4 @@
-[English version](./README.md)
+[🇬🇧 English version](./README.md)
 
 # JP IT Support Casebook
 **チケット形式によるITサポート・ポートフォリオ**
