@@ -12,4 +12,5 @@
 | 008  | kobayashi.a | USBデバイスが認識されない                | 大阪支社・1階   |
 | 009  | fujimoto.h  | Bluetooth接続に失敗した              | 横浜オフィス・3階 |
 | 010  | yoshida.m   | Windows Update エラー 0x80070002 | 長崎支社・2階   |
+
 [🇬🇧 English version](./ticket_index.md)
